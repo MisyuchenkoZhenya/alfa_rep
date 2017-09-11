@@ -14,7 +14,7 @@ namespace alfa_app
      */
     public class dsearch
     {
-        public int dsearch_f(string file, byte block)
+        public static int dsearch_f(string file, byte block)
         {
             
             return 0;

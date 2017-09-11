@@ -16,10 +16,9 @@ namespace alfa_app
             //Task 2
             int[] mass = { 75, 63, 50, 29, 22, 15, 10, 9, 3};
             Console.WriteLine(bsearch.bsearch_f(mass, 25));
-            
+
             //Task 3
-
-
+            rrotate.rrotate_f(mass, 3);
         }
     }
 }

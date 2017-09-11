@@ -12,11 +12,11 @@ namespace alfa_app
      * смещение идентичного блока данных в файле. Размер файла не превышает
      * 512 Mb. Блоки данных в файле выровнены по границе 256 B.
      */
-    class dsearch
+    public class dsearch
     {
         public int dsearch_f(string file, byte block)
         {
-
+            
             return 0;
         }
     }
